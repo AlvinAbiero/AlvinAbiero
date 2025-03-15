@@ -33,11 +33,7 @@ I'm a full-stack developer passionate about transforming ideas into powerful, sc
 -  🌴 I’m looking to collaborate on React and TypeScript Projects  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+=</table>  
 
 <br/>  
 
